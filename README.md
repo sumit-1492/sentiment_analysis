@@ -6,6 +6,8 @@ based on review another is label. Label has two values 1 and 0 , 1 signifies tha
 good and 0 signifies that movie is bad. As it is a classification problem, i use 
 LogisticRegression for the training the model. before training the model dataprocessing is done through 
 nltk(natural language tool kit) and regex library.
+
+In the notebook directory(Review of sentiment analysis.ipynb) I have implemented the same thing written above.
 ```
 
 ### To create any emppty file using git bash
