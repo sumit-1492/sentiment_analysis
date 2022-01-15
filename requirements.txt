@@ -1,7 +1,10 @@
 notebook
+streamlit
 matplotlib
+seaborn
 pandas
 numpy
 nltk
 regex
 scikit-learn
+xgboost
